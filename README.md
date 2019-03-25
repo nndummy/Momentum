@@ -1,2 +1,2 @@
 # Momentum
-Learn from Nomad_Coder
+Learned from Nomad_Coder
